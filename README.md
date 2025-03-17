@@ -1,6 +1,8 @@
 # st-patricks-day-shamrock-plot-r
 St. Patrick's Day shamrock plot using R
+
 By: Joe Domaleski
+
 Date: 3/17/2025
 
 # Three-Leaf Shamrock in R
